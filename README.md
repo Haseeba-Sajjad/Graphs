@@ -8,6 +8,10 @@ Statistical Behavior Classification: Categorizes the system's overall behavior (
 
 Eigenvalue Based Categorization: Classifies the system based on the nature of its eigenvalues (e.g., Real, Complex, with various real/imaginary components, denoted as R1-R5, C, RC1, RC2, Z).
 
+Dynamical Analysis
+
+In addition to classification, the repository provides a detailed dynamical analysis of the system by linking time-domain behavior with local stability characteristics. The framework captures how transitions between stable, oscillatory, and unstable regimes occur as parameters vary. By combining statistical measures with eigenvalue information, the analysis offers a comprehensive view of both global behavior and local stability mechanisms, allowing critical bifurcation-like transitions to be identified within the parameter space.
+
 Usage:
 The graphs can be used to:
 
