@@ -16,8 +16,8 @@ The repository currently contains the following main results:
 The statistical classification results categorize simulated trajectories into:
 
 - **Non-Diverging**
-- **Periodic**
-- **Diverging**
+- **Bounded(low-amplitude)**
+- **Bounded periodic**
 
 The classification is generated over discretized parameter spaces and visualized using 3D parameter-space plots.
 
