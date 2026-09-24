@@ -3,7 +3,7 @@
 This repository contains the graphical visualizations generated for the analysis of a nonlinear dynamical system under varying parameter conditions. The repository focuses on two complementary approaches:
 
 1. **Statistical-based behavior classification** of numerical trajectories.
-2. **Eigenvalue-based stability categorization** of the dynamical system.
+2. **Eigenvalue-based categorization** of the dynamical system.
 
 The results are provided as PDF figures for different parameter-space discretizations, allowing comparison of the system behavior and stability patterns at different resolutions.
 
